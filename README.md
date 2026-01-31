@@ -1,6 +1,6 @@
 AvtoObuvka - Автомобильные шины
 
-[<img width="480" height="480" alt="лого" src="https://github.com/user-attachments/assets/e578cb5f-110c-4357-80e5-3b5a2ba4d209" />](https://yandex.ru/images/search?p=5&source=serp&text=логотип+автообувка&pos=12&rpt=simage&img_url=https%3A%2F%2Fpapik.pro%2Fgrafic%2Fuploads%2Fposts%2F2023-04%2F1681584780_papik-pro-p-logotip-genshina-vektor-38.jpg&lr=49)
+![i](https://github.com/user-attachments/assets/b06312d9-997d-40d7-a67d-37c810a9c6ed)
 
 Описание
 
